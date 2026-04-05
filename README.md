@@ -14,7 +14,7 @@ with a focus on AWS, infrastructure automation, and scalable system design.
 
 ## Projects
 
-### [REPL Interpreter (OCaml)](./repl-interpreter)
+### [REPL Interpreter (OCaml)](../repl-interpreter)
 - Built a stack-based interpreter with an interactive REPL
 - Implemented parsing, execution engine, and scoped environments
 - Supports arithmetic, variables, control flow, and user-defined functions
