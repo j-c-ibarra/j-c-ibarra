@@ -26,17 +26,17 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 ## Currently Learning
 - AWS Cloud Practitioner → Solutions Architect
 - Terraform (Infrastructure as Code)
-- DevSecOps fundamentals
+- Deepening cloud fundamentals
 
 ---
 
 ## Goals
 - Build production-style cloud projects
 - Deploy full-stack applications
-- Transition into a DevSecOps / Cloud Engineering role
+- Land a Cloud Engineering role and transition into DevSecOps
 
 ---
 
 ## Contact
-LinkedIn: www.linkedin.com/in/jeremiahibarra
+LinkedIn: www.linkedin.com/in/jeremiahibarra  
 GitHub: .
