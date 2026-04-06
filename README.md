@@ -85,6 +85,35 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
   <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/meGolfing.gif" width="150"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/pickleball.jpg" width="150"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/meHiking.jpg" width="150"/>
+</p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/viaFer.jpg" width="150"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/mePainting.jpg" width="150"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/muralPose.jpg" width="150"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/muralWorkInProgress.jpg" width="150"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/meAndMick.jpg" width="150"/>
+</p>
+
 </details>
 
 ---
