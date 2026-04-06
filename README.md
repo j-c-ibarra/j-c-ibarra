@@ -75,8 +75,9 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 
 ## Goals
 - Build production-style cloud projects
-- Deploy full-stack applications
-- Land a Cloud Engineering role and transition into DevSecOps
+- Build a strong foundation in cloud computing
+- Land a Cloud Engineering role
+- Transition into DevSecOps
 
 ---
 
