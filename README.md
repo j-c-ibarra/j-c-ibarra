@@ -82,9 +82,7 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 <br>
 
 
-### Hold an A for effort in:
-
-<p align="center">
+### Hold an A for effort in: <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdlbWE3dTVrMHp5enhkYW83ZWQwZXhndDJjcXRlOTFvOHJpcDR6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Zt6RCjlIKNSUmDS/giphy.gif" width="150"/>
 </p>
 
