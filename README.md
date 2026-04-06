@@ -73,6 +73,18 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 
 ---
 
+<details>
+<summary>More About Me</summary>
+
+- I enjoy building systems that are both efficient and scalable  
+- I like breaking down complex problems into structured steps  
+- Outside of tech, I’ve worked as a bartender, which strengthened my ability to communicate and perform under pressure  
+- I enjoy teaching and helping others understand difficult concepts  
+
+</details>
+
+---
+
 ## Contact
 LinkedIn: www.linkedin.com/in/jeremiahibarra  
 GitHub: .
