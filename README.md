@@ -81,10 +81,9 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 
 <br>
 
-- I enjoy building systems that are both efficient and scalable  
-- I like breaking down complex problems into structured steps  
-- Outside of tech, I’ve worked as a bartender, which strengthened my ability to communicate and perform under pressure  
-- I enjoy teaching and helping others understand difficult concepts  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/meGolfing" width="100%"/>
+</p>
 
 </details>
 
