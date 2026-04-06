@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/Jeremiah%20Ibarra.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/JeremiahIbarraCover.png" width="100%"/>
 </p>
 Computer Science Engineering @ University at Buffalo  
 Aspiring Cloud Engineer / DevSecOps 
