@@ -64,23 +64,10 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 
 ## Certs
 
-<table width="100%">
-  <tr>
-    <th>To Do</th>
-    <th>In Progress</th>
-    <th>Complete</th>
-  </tr>
-  <tr>
-    <td>AWS Solutions Architect</td>
-    <td>AWS Cloud Practitioner</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>HashiCorp Certified: Terraform Associate</td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+| To Do | In Progress | Complete |
+|------|-------------|----------|
+| AWS Solutions Architect | AWS Cloud Practitioner (CLF-C01) |  |
+| HashiCorp Certified: Terraform Associate |  |  |
 
 ---
 
