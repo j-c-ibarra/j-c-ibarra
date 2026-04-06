@@ -105,4 +105,3 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 
 ## Contact
 LinkedIn: www.linkedin.com/in/jeremiahibarra  
-GitHub: .
