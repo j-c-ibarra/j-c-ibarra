@@ -83,12 +83,30 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 
 
 
-#### Hold an A for effort in: 
-- Pickleball<p align="right">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdlbWE3dTVrMHp5enhkYW83ZWQwZXhndDJjcXRlOTFvOHJpcDR6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Zt6RCjlIKNSUmDS/giphy.gif" width="150"/>
-</p>  
-- Golf  
-- Fishing
+<table width="100%">
+<tr>
+<td>
+
+<b>Hold an A for effort in:</b>
+
+- Pickleball  
+- Golf - Fishing  
+
+<br>
+
+<b>Someday would love to:</b>
+
+- Become a pilot  
+- Master archery  
+- Finally properly crust a ribeye  
+
+</td>
+
+<td align="right" width="200">
+<img src="YOUR_GIF_LINK" width="150"/>
+</td>
+</tr>
+</table>
 
 #### Someday would love to:
 - Become a pilot  
