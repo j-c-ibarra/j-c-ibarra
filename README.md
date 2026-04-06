@@ -13,6 +13,20 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 
 ---
 
+<details>
+<summary><span style="font-size:20px; font-weight:600;">More About Me (off the clock)</span></summary>
+
+<br>
+
+- temp  
+- temp  
+- temp  
+- temp
+
+</details>
+
+---
+
 ## My Current Role
 
 **CSE 305 Teaching Assistant — [University at Buffalo](https://www.buffalo.edu/)**
