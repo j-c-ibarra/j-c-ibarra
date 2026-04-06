@@ -13,6 +13,11 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 
 ---
 
+## My Current Role
+temp
+
+--
+
 ## Projects
 
 ### [REPL Interpreter (OCaml)](https://github.com/j-c-ibarra/repl-interpreter)
