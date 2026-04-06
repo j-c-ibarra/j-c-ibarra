@@ -82,7 +82,7 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/meGolfing.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/meGolfing.gif" width="300"/>
 </p>
 
 </details>
