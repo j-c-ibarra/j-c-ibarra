@@ -17,12 +17,8 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 
 **CSE 305 Teaching Assistant — [University at Buffalo](https://www.buffalo.edu/)**
 
-- Assist in teaching core programming language concepts including abstraction, type systems, and functional programming by delivering lectures, leading recitations and office hours, improving student understanding of language semantics, program execution, and program behavior
-- Lead recitations and hold office hours to reinforce programming language concepts  
-- Break down complex topics (e.g., interpreters, functional programming, semantics) into clear, structured explanations  
-- Support students in debugging and developing problem-solving strategies  
-- Communicate technical ideas effectively in both group and one-on-one settings
-
+- Assist in teaching core programming language concepts including abstraction, type systems, and ***functional programming** by delivering lectures, ***leading recitations*** and office hours, improving student understanding of ***language semanticsd, program execution, and program behavior***
+- ***Collaborate with professors and other course staff*** to address student challenges by communicating common issues and solutions, improving overall course support and student outcomes
 ---
 
 ## Projects
