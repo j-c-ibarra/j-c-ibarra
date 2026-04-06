@@ -16,21 +16,30 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 
 ## Skills
 
-![C](https://img.shields.io/badge/C-blue)
-![OCaml](https://img.shields.io/badge/OCaml-orange)
-![Python](https://img.shields.io/badge/Python-yellow)
-![Go](https://img.shields.io/badge/Go-cyan)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![SQL](https://img.shields.io/badge/SQL-lightgrey)
+**Backend & Systems**  
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
+![OCaml](https://img.shields.io/badge/OCaml-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge)
 
-![Linux](https://img.shields.io/badge/Linux-black)
-![Bash](https://img.shields.io/badge/Bash-grey)
-![Docker](https://img.shields.io/badge/Docker-blue)
-![Git](https://img.shields.io/badge/Git-red)
-![Postman](https://img.shields.io/badge/Postman-orange)
+**Tools & Development**  
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge)
+![Makefiles](https://img.shields.io/badge/Makefiles-grey?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge)
 
-![AWS](https://img.shields.io/badge/AWS-learning-yellow)
-![Terraform](https://img.shields.io/badge/Terraform-learning-purple)
+**Cloud & Infrastructure**  
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-grey?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-learning-yellow?style=for-the-badge)
+![Terraform](https://img.shields.io/badge/Terraform-learning-purple?style=for-the-badge)
+
+**Core Concepts**  
+![Systems Programming](https://img.shields.io/badge/Systems_Programming-darkblue?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Networking-blue?style=for-the-badge)
+![Concurrency](https://img.shields.io/badge/Concurrency-teal?style=for-the-badge)
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-grey?style=for-the-badge)
+![Functional Programming](https://img.shields.io/badge/Functional_Programming-orange?style=for-the-badge)
 
 ---
 
