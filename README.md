@@ -31,6 +31,14 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 - Implemented parsing, execution engine, and scoped environments
 - Supports arithmetic, variables, control flow, and user-defined functions
 
+### [Client-Server Messaging System (C/C++)](https://github.com/UB-CSE4589-Fall25/pa1-jcibarra-dabrober/tree/main)
+- Built a TCP-based client-server application supporting multiple concurrent clients using `select()`
+- Implemented core networking features including login/logout, messaging, broadcast, and client list synchronization
+- Designed server-side state management for connected clients, message routing, and offline message buffering
+- Developed command parsing and protocol handling for reliable communication between clients and server
+
+
+
 ---
 
 ## Skills
