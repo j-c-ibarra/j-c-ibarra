@@ -1,4 +1,5 @@
-# Jeremiah Ibarra
+<img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/JeremiahIbarra.jpg" width="200"/>
+---
 
 Computer Science Engineering @ University at Buffalo  
 Aspiring Cloud Engineer / DevSecOps 
