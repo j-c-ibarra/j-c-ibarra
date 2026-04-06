@@ -2,8 +2,7 @@
   <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/JeremiahIbarraCover.png" width="100%"/>
 </p>
 
-### ![CSE Student | Undergraduate CSE Teaching Assistant | Aspiring Cloud Engineer](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Aspiring+Cloud+Engineer;Systems+%2B+Backend+Focused;Building+Scalable+Infrastructure)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=FFFFFF&vCenter=true&width=600&lines=CSE+Student;CSE+Teaching+Assistant;Aspiring+Cloud+Engineer)
 
 ---
 
