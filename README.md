@@ -24,20 +24,6 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 
 ---
 
-<details>
-<summary><span style="font-size:20px; font-weight:600;">More About Me (off the clock)</span></summary>
-
-<br>
-
-- temp  
-- temp  
-- temp  
-- temp
-
-</details>
-
----
-
 ## Projects
 
 ### [REPL Interpreter (OCaml)](https://github.com/j-c-ibarra/repl-interpreter)
