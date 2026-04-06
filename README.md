@@ -17,29 +17,35 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 ## Skills
 
 **Backend & Systems**  
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
-![OCaml](https://img.shields.io/badge/OCaml-orange?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge)
+<img src="https://img.shields.io/badge/C-blue?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/OCaml-orange?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge" height="28"/>
 
-**Tools & Development**  
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge)
-![Makefiles](https://img.shields.io/badge/Makefiles-grey?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge)
+<br><br>
 
-**Cloud & Infrastructure**  
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash-grey?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-learning-yellow?style=for-the-badge)
-![Terraform](https://img.shields.io/badge/Terraform-learning-purple?style=for-the-badge)
+<b>Tools & Development</b><br>
+<img src="https://img.shields.io/badge/Git-red?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/Makefiles-grey?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge" height="28"/>
 
-**Core Concepts**  
-![Systems Programming](https://img.shields.io/badge/Systems_Programming-darkblue?style=for-the-badge)
-![Networking](https://img.shields.io/badge/Networking-blue?style=for-the-badge)
-![Concurrency](https://img.shields.io/badge/Concurrency-teal?style=for-the-badge)
-![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-grey?style=for-the-badge)
-![Functional Programming](https://img.shields.io/badge/Functional_Programming-orange?style=for-the-badge)
+<br><br>
+
+<b>Cloud & Infrastructure</b><br>
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/Bash-grey?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/AWS-learning-yellow?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/Terraform-learning-purple?style=for-the-badge" height="28"/>
+
+<br><br>
+
+<b>Core Concepts</b><br>
+<img src="https://img.shields.io/badge/Systems_Programming-darkblue?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/Networking-blue?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/Concurrency-teal?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-grey?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/Functional_Programming-orange?style=for-the-badge" height="28"/>
 
 ---
 
