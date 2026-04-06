@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/JeremiahIbarr.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/JeremiahIbarra.png" width="100%"/>
 </p>
 ---
 
