@@ -79,35 +79,31 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 <details>
 <summary><span style="font-size:20px; font-weight:600;">More About Me (AFK)</span></summary>
 
+<br>
+
 <table>
-  <tr>
-    <!-- LEFT IMAGES -->
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/meGolfing.gif" width="120"/><br><br>
-      <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/pickleball.jpg" width="120"/><br><br>
-      <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/meHiking.jpg" width="120"/>
-    </td>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/meGolfing.gif" width="120"/><br><br>
+<img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/pickleball.jpg" width="120"/><br><br>
+<img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/meHiking.jpg" width="120"/>
+</td>
 
-    <!-- CENTER TEXT -->
-    <td align="center" width="300">
-      <b>More About Me (AFK)</b><br><br>
+<td align="center" width="300">
+<b>More About Me (AFK)</b><br><br>
+I enjoy staying active and getting outdoors whenever I can.<br><br>
+Whether it's golfing, hiking, or playing sports,<br>
+I like challenging myself and staying consistent.<br><br>
+I also enjoy creative outlets like painting<br>
+and working on murals.
+</td>
 
-      I enjoy staying active and getting outdoors whenever I can.<br><br>
-
-      Whether it's golfing, hiking, or playing sports,<br>
-      I like challenging myself and staying consistent.<br><br>
-
-      I also enjoy creative outlets like painting<br>
-      and working on murals.
-    </td>
-
-    <!-- RIGHT IMAGES -->
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/viaFer.jpg" width="120"/><br><br>
-      <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/mePainting.jpg" width="120"/><br><br>
-      <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/muralPose.jpg" width="120"/>
-    </td>
-  </tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/viaFer.jpg" width="120"/><br><br>
+<img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/mePainting.jpg" width="120"/><br><br>
+<img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/muralPose.jpg" width="120"/>
+</td>
+</tr>
 </table>
 
 </details>
