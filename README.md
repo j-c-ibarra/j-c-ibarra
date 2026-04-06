@@ -9,8 +9,8 @@
 
 ## About Me
 Computer Science Engineering student @ [Univeristy at Buffalo](https://www.buffalo.edu/) graduating August 2026 with a strong foundation in systems, networking, and backend development. Experienced in
-building real-time applications using C, Ocaml, JavaScript, and MySQL, with exposure to Agile team workflows. Actively pursuing cloud engineering,
-with a focus on AWS, infrastructure automation, and scalable system design.
+building real-time applications using `C`, `Ocaml`, `JavaScript`, and `MySQL`, with exposure to `Agile` team workflows. Actively pursuing cloud engineering,
+with a focus on `AWS`, infrastructure automation, and scalable system design.
 
 ---
 
