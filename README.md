@@ -94,6 +94,7 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 
 <img src="https://gifdb.com/images/high/legolas-attacking-with-arrow-ecmjidltnp12zw4r.webp" width="150"/>
 </p>
+
 - Become a pilot  
 - Master archery  
 - Finally properly crust a ribeye
