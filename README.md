@@ -44,7 +44,7 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 <img src="https://img.shields.io/badge/Systems_Programming-darkblue?style=for-the-badge" height="28"/>
 <img src="https://img.shields.io/badge/Networking-blue?style=for-the-badge" height="28"/>
 <img src="https://img.shields.io/badge/Concurrency-teal?style=for-the-badge" height="28"/>
-<img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-grey?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/DSA-grey?style=for-the-badge" height="28"/>
 <img src="https://img.shields.io/badge/Functional_Programming-orange?style=for-the-badge" height="28"/>
 
 ---
