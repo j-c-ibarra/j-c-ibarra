@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/JeremiahIbarra.jpg" width="200"/>
+<img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/JeremiahIbarra.png" width="200"/>
 ---
 
 Computer Science Engineering @ University at Buffalo  
