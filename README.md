@@ -16,17 +16,23 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 
 ## Skills
 
-**Backend & Systems**  
-`C` `OCaml` `Python` `SQL`
+## Skills
 
-**Tools & Development**  
-`Git` `Makefiles` `Wireshark` `Postman`
+![C](https://img.shields.io/badge/C-blue)
+![OCaml](https://img.shields.io/badge/OCaml-orange)
+![Python](https://img.shields.io/badge/Python-yellow)
+![Go](https://img.shields.io/badge/Go-cyan)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![SQL](https://img.shields.io/badge/SQL-lightgrey)
 
-**Cloud & Infrastructure**  
-`Linux/Unix` `Bash (scripting)` `AWS (learning)` `Terraform (learning)`
+![Linux](https://img.shields.io/badge/Linux-black)
+![Bash](https://img.shields.io/badge/Bash-grey)
+![Docker](https://img.shields.io/badge/Docker-blue)
+![Git](https://img.shields.io/badge/Git-red)
+![Postman](https://img.shields.io/badge/Postman-orange)
 
-**Core Concepts**  
-`Systems Programming` `Networking` `Concurrency` `Data Structures & Algorithms` `Functional Programming`
+![AWS](https://img.shields.io/badge/AWS-learning-yellow)
+![Terraform](https://img.shields.io/badge/Terraform-learning-purple)
 
 ---
 
