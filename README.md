@@ -74,7 +74,7 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 ---
 
 <details>
-<summary><b style="font-size:18px;">More About Me</b></summary>
+<summary><b style="font-size:24px;">More About Me</b></summary>
 
 - I enjoy building systems that are both efficient and scalable  
 - I like breaking down complex problems into structured steps  
