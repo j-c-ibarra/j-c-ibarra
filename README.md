@@ -16,8 +16,6 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 
 ## Skills
 
-## Skills
-
 ![C](https://img.shields.io/badge/C-blue)
 ![OCaml](https://img.shields.io/badge/OCaml-orange)
 ![Python](https://img.shields.io/badge/Python-yellow)
