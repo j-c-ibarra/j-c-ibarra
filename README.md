@@ -15,7 +15,18 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 ---
 
 ## Skills
-temp
+
+**Backend & Systems**  
+`C` `OCaml` `Python` `SQL`
+
+**Tools & Development**  
+`Git` `Makefiles` `Wireshark` `Postman`
+
+**Cloud & Infrastructure**  
+`Linux/Unix` `Bash (scripting)` `AWS (learning)` `Terraform (learning)`
+
+**Core Concepts**  
+`Systems Programming` `Networking` `Concurrency` `Data Structures & Algorithms` `Functional Programming`
 
 ---
 
