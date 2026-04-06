@@ -81,12 +81,12 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 
 <br>
 
-### Hold an A for effort in: 
+#### Hold an A for effort in: 
 - Pickleball  
 - Golf  
 - Fishing
 
-### Someday would love to:
+#### Someday would love to:
 - Become a pilot  
 - Master archery  
 - Finally properly crust a ribeye
