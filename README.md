@@ -92,7 +92,7 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 
 #### Someday would love to:
 
-<img src="https://media.gifdb.com/legolas-attacking-with-arrow-ecmjidltnp12zw4r.gif" width="150"/>
+<img src="https://gifdb.com/images/high/legolas-attacking-with-arrow-ecmjidltnp12zw4r.webp" width="150"/>
 </p>
 - Become a pilot  
 - Master archery  
