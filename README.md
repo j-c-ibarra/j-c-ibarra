@@ -35,8 +35,8 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 <b>Cloud & Infrastructure</b><br>
 <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge" height="28"/>
 <img src="https://img.shields.io/badge/Bash-grey?style=for-the-badge" height="28"/>
-<img src="https://img.shields.io/badge/AWS-learning-yellow?style=for-the-badge" height="28"/>
-<img src="https://img.shields.io/badge/Terraform-learning-purple?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/AWS-learning-lightgrey?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/Terraform-learning-lightgrey?style=for-the-badge" height="28"/>
 
 <br><br>
 
