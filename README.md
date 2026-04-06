@@ -23,6 +23,11 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 
 ---
 
+## Skills
+temp
+
+---
+
 ## Currently Learning
 - AWS Cloud Practitioner → Solutions Architect
 - Terraform (Infrastructure as Code)
