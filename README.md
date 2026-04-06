@@ -13,6 +13,15 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 
 ---
 
+## Projects
+
+### [REPL Interpreter (OCaml)](https://github.com/j-c-ibarra/repl-interpreter)
+- Built a stack-based interpreter with an interactive REPL
+- Implemented parsing, execution engine, and scoped environments
+- Supports arithmetic, variables, control flow, and user-defined functions
+
+---
+
 ## Skills
 
 <b>Backend & Systems</b><br>
@@ -39,15 +48,6 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 <img src="https://img.shields.io/badge/Concurrency-teal?style=for-the-badge" height="28"/>
 <img src="https://img.shields.io/badge/DSA-grey?style=for-the-badge" height="28"/>
 <img src="https://img.shields.io/badge/Functional_Programming-orange?style=for-the-badge" height="28"/>
-
----
-
-## Projects
-
-### [REPL Interpreter (OCaml)](https://github.com/j-c-ibarra/repl-interpreter)
-- Built a stack-based interpreter with an interactive REPL
-- Implemented parsing, execution engine, and scoped environments
-- Supports arithmetic, variables, control flow, and user-defined functions
 
 ---
 
