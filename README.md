@@ -22,7 +22,7 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 - Support students in debugging and developing problem-solving strategies  
 - Communicate technical ideas effectively in both group and one-on-one settings
 
---
+---
 
 ## Projects
 
