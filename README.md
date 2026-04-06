@@ -66,9 +66,9 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 
 | To Do | In Progress | Complete |
 |------|-------------|----------|
-| AWS Solutions Architect | AWS Cloud Practitioner (CLF-C01) |  |
-| Terraform (Infrastructure as Code) |  |  |
-| Deepening cloud fundamentals |  |  |
+| AWS Solutions Architect | AWS Cloud Practitioner |  |
+| HashiCorp Certified: Terraform Associate |  |  |
+| |  |  |
 
 ---
 
