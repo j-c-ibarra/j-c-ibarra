@@ -7,14 +7,20 @@
 ---
 
 ## About Me
-Computer Science Engineering student @ [Univeristy at Buffalo](https://www.buffalo.edu/) graduating August 2026 with a strong foundation in systems, networking, and backend development. Experienced in
+Computer Science Engineering student @ [Univeristy at Buffalo](https://engineering.buffalo.edu/) graduating August 2026 with a strong foundation in systems, networking, and backend development. Experienced in
 building real-time applications using `C`, `Ocaml`, `JavaScript`, and `MySQL`, with exposure to ***Agile*** team workflows. Actively pursuing cloud engineering,
 with a focus on `AWS`, infrastructure automation, and scalable system design.
 
 ---
 
 ## My Current Role
-temp
+
+**CSE 305 Teaching Assistant — [University at Buffalo](https://www.buffalo.edu/)**
+
+- Lead recitations and hold office hours to reinforce programming language concepts  
+- Break down complex topics (e.g., interpreters, functional programming, semantics) into clear, structured explanations  
+- Support students in debugging and developing problem-solving strategies  
+- Communicate technical ideas effectively in both group and one-on-one settings
 
 --
 
