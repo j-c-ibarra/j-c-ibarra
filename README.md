@@ -105,12 +105,14 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 
 ## Contact
 
-<p>
-<a href="https://www.linkedin.com/in/jeremiahibarra" target="_blank">
-  <img src="https://www.vikingcamps.com/wp-content/uploads/2024/01/linkedin-logo-linkedin-icon-transparent-free-png.webp" width="50"/>
-</a>
+## Contact
 
-<a href="https://www.linkedin.com/in/jeremiahibarra" target="_blank">
-  <img src="https://static.vecteezy.com/system/resources/thumbnails/018/930/718/small_2x/discord-logo-discord-icon-transparent-free-png.png" width="50"/>
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/jeremiahibarra" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40"/>
+  </a>
+
+  <a href="https://discord.com/users/YOUR_ID" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="40"/>
+  </a>
 </p>
