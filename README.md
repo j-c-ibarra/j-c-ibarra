@@ -104,6 +104,6 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 ---
 
 ## Contact
-<img src="https://www.vikingcamps.com/wp-content/uploads/2024/01/linkedin-logo-linkedin-icon-transparent-free-png.webp" width="150"/>
+<img src="https://www.vikingcamps.com/wp-content/uploads/2024/01/linkedin-logo-linkedin-icon-transparent-free-png.webp" width="50"/>
 </p>
 
