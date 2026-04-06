@@ -13,6 +13,17 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 
 ---
 
+
+
+## My Current Role
+
+**CSE 305 Teaching Assistant — [University at Buffalo](https://www.buffalo.edu/)**
+
+- Assist in teaching core programming language concepts including abstraction, type systems, and ***functional programming** by delivering lectures, ***leading recitations*** and office hours, improving student understanding of ***language semanticsd, program execution, and program behavior***
+- ***Collaborate with professors and other course staff*** to address student challenges by communicating common issues and solutions, improving overall course support and student outcomes
+
+---
+
 <details>
 <summary><span style="font-size:20px; font-weight:600;">More About Me (off the clock)</span></summary>
 
@@ -25,14 +36,6 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 
 </details>
 
----
-
-## My Current Role
-
-**CSE 305 Teaching Assistant — [University at Buffalo](https://www.buffalo.edu/)**
-
-- Assist in teaching core programming language concepts including abstraction, type systems, and ***functional programming** by delivering lectures, ***leading recitations*** and office hours, improving student understanding of ***language semanticsd, program execution, and program behavior***
-- ***Collaborate with professors and other course staff*** to address student challenges by communicating common issues and solutions, improving overall course support and student outcomes
 ---
 
 ## Projects
