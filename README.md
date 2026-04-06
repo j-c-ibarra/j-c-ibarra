@@ -86,18 +86,14 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdlbWE3dTVrMHp5enhkYW83ZWQwZXhndDJjcXRlOTFvOHJpcDR6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Zt6RCjlIKNSUmDS/giphy.gif" width="150"/>
 </p>
 
-- Pickleball  
-- Golf  
-- Fishing  
+Pickleball, golf and fishing  
 
 ### Someday would love to:
 
 <img src="https://gifdb.com/images/high/legolas-attacking-with-arrow-ecmjidltnp12zw4r.webp" width="150"/>
 </p>
 
-- Become a pilot  
-- Master archery  
-- ***Properly*** cook a ribeye
+Become a pilot, master archery and ***Properly*** cook a ribeye  
 
 </details>
 
