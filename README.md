@@ -97,7 +97,7 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 
 - Become a pilot  
 - Master archery  
-- ***Properly*** crust a ribeye
+- ***Properly*** cook a ribeye
 
 </details>
 
