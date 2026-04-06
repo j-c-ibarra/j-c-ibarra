@@ -79,40 +79,36 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 <details>
 <summary><span style="font-size:20px; font-weight:600;">More About Me (AFK)</span></summary>
 
-<br>
+<table>
+  <tr>
+    <!-- LEFT IMAGES -->
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/meGolfing.gif" width="120"/><br><br>
+      <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/pickleball.jpg" width="120"/><br><br>
+      <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/meHiking.jpg" width="120"/>
+    </td>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/meGolfing.gif" width="150"/>
-</p>
+    <!-- CENTER TEXT -->
+    <td align="center" width="300">
+      <b>More About Me (AFK)</b><br><br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/pickleball.jpg" width="150"/>
-</p>
+      I enjoy staying active and getting outdoors whenever I can.<br><br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/meHiking.jpg" width="150"/>
-</p>
+      Whether it's golfing, hiking, or playing sports,<br>
+      I like challenging myself and staying consistent.<br><br>
 
+      I also enjoy creative outlets like painting<br>
+      and working on murals.
+    </td>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/viaFer.jpg" width="150"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/mePainting.jpg" width="150"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/muralPose.jpg" width="150"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/muralWorkInProgress.jpg" width="150"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/meAndMick.jpg" width="150"/>
-</p>
+    <!-- RIGHT IMAGES -->
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/viaFer.jpg" width="120"/><br><br>
+      <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/mePainting.jpg" width="120"/><br><br>
+      <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/muralPose.jpg" width="120"/>
+    </td>
+  </tr>
+</table>
 
 </details>
 
