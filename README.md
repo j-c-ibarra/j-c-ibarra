@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/JeremiahIbarraCover.png" width="100%"/>
 </p>
 
-`**Computer Science Engineering Student | Undergraduate CSE Teaching Assistant | Aspiring Cloud Engineer**`
+# Computer Science Engineering Student | Undergraduate CSE Teaching Assistant | Aspiring Cloud Engineer
 
 
 ---
