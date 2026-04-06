@@ -62,10 +62,13 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 
 ---
 
-## Currently Learning
-- AWS Cloud Practitioner → Solutions Architect
-- Terraform (Infrastructure as Code)
-- Deepening cloud fundamentals
+## Certs
+
+| To Do | In Progress | Complete |
+|------|-------------|----------|
+| AWS Solutions Architect | AWS Cloud Practitioner (CLF-C01) |  |
+| Terraform (Infrastructure as Code) |  |  |
+| Deepening cloud fundamentals |  |  |
 
 ---
 
