@@ -28,18 +28,18 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 ## Projects
 
 ### [REPL Interpreter (OCaml)](https://github.com/j-c-ibarra/repl-interpreter)    
-- Built a stack-based interpreter with an interactive REPL  
+- A stack-based interpreter with an interactive REPL  
 - Implemented parsing, execution engine, and scoped environments  
 - Supports arithmetic, variables, control flow, and user-defined functions  
 
 ### [Client-Server Messaging System (C/C++)](https://github.com/j-c-ibarra/client-server-messaging-system)  
-- Built a TCP-based client-server application supporting multiple concurrent clients using `select()`  
+- A TCP-based client-server application supporting multiple concurrent clients using `select()`  
 - Implemented core networking features including login/logout, messaging, broadcast, and client list synchronization  
 - Designed server-side state management for connected clients, message routing, and offline message buffering  
 - Developed command parsing and protocol handling for reliable communication between clients and server
 
 ### [JMMW (PHP/ReactJS/WebRTC/MySQL/Generative AI Tools)](https://github.com/j-c-ibarra/jmmw)    
-- Web Video Chatroom and Social Media Application
+- A Web Video Chatroom and Social Media Application
 - Collaborated in an Agile team environment, delivering features in weekly sprints and coordinating with a project manager  
 - Integrated WebRTC for peer-to-peer video communication, using backend signaling to establish and manage real-time connections between clients  
 - Designed and maintained a MySQL database using PhpMyAdmin, documenting schema design and sharing with teammates to improve collaboration and communication  
