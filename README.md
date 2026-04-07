@@ -26,18 +26,64 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 
 ## Projects
 
-### [REPL Interpreter (OCaml)](https://github.com/j-c-ibarra/repl-interpreter)
-- Built a stack-based interpreter with an interactive REPL
-- Implemented parsing, execution engine, and scoped environments
-- Supports arithmetic, variables, control flow, and user-defined functions
+<table width="100%">
+<tr>
+<td>
 
-### [Client-Server Messaging System (C/C++)](https://github.com/j-c-ibarra/client-server-messaging-system/tree/main)
-- Built a TCP-based client-server application supporting multiple concurrent clients using `select()`
-- Implemented core networking features including login/logout, messaging, broadcast, and client list synchronization
-- Designed server-side state management for connected clients, message routing, and offline message buffering
-- Developed command parsing and protocol handling for reliable communication between clients and server
+### [REPL Interpreter (OCaml)](https://github.com/j-c-ibarra/repl-interpreter)
+
+</td>
+<td align="right">
+
+[How it works](YOUR_PRESENTATION_LINK)
+
+</td>
+</tr>
+</table>
+
+- Built a stack-based interpreter with an interactive REPL  
+- Implemented parsing, execution engine, and scoped environments  
+- Supports arithmetic, variables, control flow, and user-defined functions  
+
+---
+
+<table width="100%">
+<tr>
+<td>
+
+### [Client-Server Messaging System (C/C++)](https://github.com/j-c-ibarra/client-server-messaging_system/tree/main)
+
+</td>
+<td align="right">
+
+[How it works](YOUR_PRESENTATION_LINK)
+
+</td>
+</tr>
+</table>
+
+- Built a TCP-based client-server application supporting multiple concurrent clients using `select()`  
+- Implemented core networking features including login/logout, messaging, broadcast, and client list synchronization  
+- Designed server-side state management for connected clients, message routing, and offline message buffering  
+- Developed command parsing and protocol handling for reliable communication between clients and server  
+
+---
+
+<table width="100%">
+<tr>
+<td>
 
 ### [JMMW (Web Video Chatroom and Social Media Application)](https://github.com/j-c-ibarra/jmmw)
+
+</td>
+<td align="right">
+
+[How it works](YOUR_PRESENTATION_LINK)
+
+</td>
+</tr>
+</table>
+
 **Tech:** PHP, ReactJS, WebRTC, MySQL, Generative AI Tools  
 - Collaborated in an Agile team environment, delivering features in weekly sprints and coordinating with a project manager  
 - Integrated WebRTC for peer-to-peer video communication, using backend signaling to establish and manage real-time connections between clients  
