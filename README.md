@@ -37,7 +37,11 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 - Designed server-side state management for connected clients, message routing, and offline message buffering
 - Developed command parsing and protocol handling for reliable communication between clients and server
 
-
+### [JMMW (Web Video Chatroom and Social Media Application)]  
+**Tech:** PHP, ReactJS, WebRTC, MySQL, Generative AI Tools  
+- Collaborated in an Agile team environment, delivering features in weekly sprints and coordinating with a project manager  
+- Integrated WebRTC for peer-to-peer video communication, using backend signaling to establish and manage real-time connections between clients  
+- Designed and maintained a MySQL database using PhpMyAdmin, documenting schema design and sharing with teammates to improve collaboration and communication  
 
 ---
 
