@@ -28,7 +28,7 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 ## Projects
 
 ### [REPL Interpreter (OCaml)](https://github.com/j-c-ibarra/repl-interpreter)    
-### Currently privatizing some portions, will make public asap.
+## ***Currently privatizing some portions, will make public asap.***
 - A stack-based interpreter with an interactive REPL  
 - Implemented parsing, execution engine, and scoped environments  
 - Supports arithmetic, variables, control flow, and user-defined functions  
