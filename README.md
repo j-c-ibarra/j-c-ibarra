@@ -59,7 +59,6 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 <img src="https://img.shields.io/badge/Git-red?style=for-the-badge" height="28"/>
 <img src="https://img.shields.io/badge/Makefiles-grey?style=for-the-badge" height="28"/>
 <img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge" height="28"/>
-<img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge" height="28"/>
 
 <b>Cloud & Infrastructure</b><br>
 <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge" height="28"/>
