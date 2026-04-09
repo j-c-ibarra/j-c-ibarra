@@ -45,7 +45,7 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 - Integrated WebRTC for peer-to-peer video communication, using backend signaling to establish and manage real-time connections between clients  
 - Designed and maintained a MySQL database using PhpMyAdmin, documenting schema design and sharing with teammates to improve collaboration and communication  
 
-#### [More of my work](https://github.com/exhausdead/exhausdead)
+#### [More of my work](https://github.com/exhausdead)
 
 ---
 
