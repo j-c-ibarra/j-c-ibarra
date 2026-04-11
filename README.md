@@ -59,6 +59,7 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 
 <b>Tools & Development</b><br>
 <img src="https://img.shields.io/badge/Git-red?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/Figma-pink?style=for-the-badge" height="28"/>
 <img src="https://img.shields.io/badge/Makefiles-grey?style=for-the-badge" height="28"/>
 <img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge" height="28"/>
 
