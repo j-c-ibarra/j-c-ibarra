@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/JeremiahIbarraCover.png" width="100%"/>
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=FFFFFF&vCenter=true&width=600&lines=CSE+Student;CSE+Teaching+Assistant;Aspiring+Cloud+Engineer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=FFFFFF&vCenter=true&width=600&lines=CSE+Student;CSE+Teaching+Assistant;Aspiring+DevOps+Engineer)
 
 ---
 
