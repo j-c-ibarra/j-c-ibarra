@@ -83,7 +83,8 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 | To Do | In Progress | Complete |
 |------|-------------|----------|
 | AWS Solutions Architect - Associate | AWS Cloud Practitioner |  |
-| AWS Solutions Architect - Professional | HashiCorp Certified: Terraform Associate |  |
+| AWS SysOps Administrator - Associate | HashiCorp Certified: Terraform Associate |  |
+| AWS DevOps Engineer - Professional |  |  |
 | AWS Security - Specialty |  |  |
 
 ---
