@@ -2,14 +2,12 @@
   <img src="https://raw.githubusercontent.com/j-c-ibarra/j-c-ibarra/main/JeremiahIbarraCover.png" width="100%"/>
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=FFFFFF&vCenter=true&width=600&lines=CSE+Student;CSE+Teaching+Assistant;Aspiring+DevOps+Engineer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=FFFFFF&vCenter=true&width=600&lines=Systems+Engineer)
 
 ---
 
 ## About Me
-Computer Science Engineering student @ [Univeristy at Buffalo](https://engineering.buffalo.edu/) graduating August 2026 with a strong foundation in systems, networking, and backend development. Experienced in
-building real-time applications using `C`, `Ocaml`, `JavaScript`, and `MySQL`, with exposure to ***Agile*** team workflows. Actively pursuing cloud engineering,
-with a focus on `AWS`, infrastructure automation, and scalable system design.
+Systems Engineer @ [Ally Financial](https://www.ally.com/) Experienced
 
 ---
 
@@ -17,11 +15,7 @@ with a focus on `AWS`, infrastructure automation, and scalable system design.
 
 ## My Current Role
 
-**CSE 305 Teaching Assistant — [University at Buffalo](https://www.buffalo.edu/)**
-
-- Assist in teaching core programming language concepts including abstraction, type systems, and ***functional programming*** by ***delivering lectures***, ***leading recitations*** and office hours, improving student understanding of ***language semantics, program execution, and program behavior***.
-- ***Collaborate with professors and other course staff*** to address student challenges by communicating common issues and solutions, improving overall course support and student outcomes.
-- ***Course information***: Examines concepts and constructs found in programming languages. Topics include binding time, strong typing, control and data abstraction, higher-order functions, and polymorphism. The major programming paradigms (procedural, object-oriented, functional, and logic) will be studied and compared. The course also provides an introduction to syntax and semantics, compilation vs. interpretation, and storage management.
+**Systems Engineer — [Ally Financial (Contracted through Brooksource)](https://www.ally.com/)**
 
 ---
 
