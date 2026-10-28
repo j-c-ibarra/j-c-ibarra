@@ -77,7 +77,7 @@
 | To Do | In Progress | Complete |
 |------|-------------|----------|
 | AWS Solutions Architect - Associate | | AWS Cloud Practitioner |
-| AWS SysOps Administrator - Associate | HashiCorp Certified: Terraform Associate |  |
+| AWS SysOps Administrator - Associate | |  |
 | AWS DevOps Engineer - Professional |  |  |
 | AWS Security - Specialty |  |  |
 
