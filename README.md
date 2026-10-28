@@ -7,7 +7,7 @@
 ---
 
 ## About Me
-Systems Engineer @ [Ally Financial](https://www.ally.com/) Experienced
+*Under Construction*
 
 ---
 
@@ -76,7 +76,7 @@ Systems Engineer @ [Ally Financial](https://www.ally.com/) Experienced
 
 | To Do | In Progress | Complete |
 |------|-------------|----------|
-| AWS Solutions Architect - Associate | AWS Cloud Practitioner |  |
+| AWS Solutions Architect - Associate | | AWS Cloud Practitioner |
 | AWS SysOps Administrator - Associate | HashiCorp Certified: Terraform Associate |  |
 | AWS DevOps Engineer - Professional |  |  |
 | AWS Security - Specialty |  |  |
@@ -86,8 +86,6 @@ Systems Engineer @ [Ally Financial](https://www.ally.com/) Experienced
 ## Goals
 - Build production-style cloud projects
 - Build a strong foundation in cloud computing
-- Land a Cloud Engineering role
-- Transition into DevSecOps
 
 ---
 
