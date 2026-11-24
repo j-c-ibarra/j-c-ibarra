@@ -15,7 +15,7 @@
 
 ## My Current Role
 
-**Systems Engineer — [Ally Financial (Contracted through Brooksource)](https://www.ally.com/)**
+**Software Engineer — [Ally Financial (Contracted through Brooksource)](https://www.ally.com/)**
 
 ---
 
